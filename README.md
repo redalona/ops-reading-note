@@ -1,2 +1,2 @@
-# ops 102-reading-note
+# ops-reading-note
 My first ever repo for reading notes in code fellow.
